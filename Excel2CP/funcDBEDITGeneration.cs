@@ -132,22 +132,6 @@ namespace Excel2CP
                 //do the dbedit for the rule
                 CreateDBEdit.CreateRule(frmMain.WorkDir, "6-Policy.dbedit", "##" + PolicyName, RuleIndex, RuleName.Trim(), CPSRC, CPDST, CPSRV, CPLOG, CPAction, RuleComment.Trim(), RuleDisabl, false, false);
                 RuleIndex++;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                 
-
             }
 
 
